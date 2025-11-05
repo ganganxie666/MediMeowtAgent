@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-<strong>基于LLM智能体的医院预诊系统</strong>
-<em>“让信息多跑路，让医生少写字。” — “让 AI 先问诊，让医生更专注。”</em>
+  <strong>基于LLM智能体的医院预诊系统</strong>
+  <br>
+  <em>“让信息多跑路，让医生少写字。” — “让 AI 先问诊，让医生更专注。”</em>
 </p>
 
 <p align="center">
